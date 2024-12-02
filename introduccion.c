@@ -34,6 +34,5 @@ int main() {
             printf("Operador no válido.\n");
             break;
     }
-
     return 0;
 }
