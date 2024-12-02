@@ -8,7 +8,6 @@ int main() {
     // Solicitar al usuario que ingrese dos números
     printf("Introduce dos números: ");
     scanf("%lf %lf", &num1, &num2);
-
     // Calcular el resultado según el operador ingresado
     switch (operador) {
         case '+':
