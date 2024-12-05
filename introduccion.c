@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
     char operador;
     double num1, num2, resultado;
