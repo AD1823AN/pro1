@@ -3,7 +3,6 @@
 int main() {
     
     char operador;
-    
     double num1, num2, resultado;
     // Solicitar al usuario que ingrese la operación
     printf("Introduce un operador (+, -, *, /): ");
