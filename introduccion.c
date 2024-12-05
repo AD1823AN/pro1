@@ -7,7 +7,6 @@ int main() {
     double num1, num2, resultado;
     
     // Solicitar al usuario que ingrese la operación
-    
     printf("Introduce un operador (+, -, *, /): ");
     scanf("%c", &operador);
     // Solicitar al usuario que ingrese dos números
