@@ -6,7 +6,6 @@ int main() {
     scanf("%c", &operador);
     printf("Introduce dos números: ");
     scanf("%lf %lf", &num1, &num2);
-    // Calcular el resultado según el operador ingresado
     switch (operador) {
         case '+':
             resultado = num1 + num2;
