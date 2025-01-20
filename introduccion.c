@@ -5,6 +5,7 @@ int main() {
     double num1, num2, resultado;
     
     printf("Introduce un operador (+, -, *, /): ");
+    
     scanf("%c", &operador);
     printf("Introduce dos números: ");
     scanf("%lf %lf", &num1, &num2);
